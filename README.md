@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **javascript, mechanics, or swimming**
 
-- 📄 Know about my experiences [how](how)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ronaldomoontree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronaldomoontree" height="30" width="40" /></a>
