@@ -1,16 +1,20 @@
 ### Hi there 👋
+Hi 👋, I'm Aaron
+A full stack engineer based in Oakland, Ca
+🌱 I’m currently learning Node and React
+💬 Ask me about javascript, mechanics, or swimming
+👨‍💻 All of my projects are available at aaronclamp.netlify.app
+📄 Know about my experiences how
+Connect with me:
+username
+username
+Languages and Tools:
+css3
+git
+html5
+javascript
+mongodb
+mysql
+nodejs
+react
 
-<!--
-**ronaldconn/ronaldconn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
