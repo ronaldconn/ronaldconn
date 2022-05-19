@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node and React**
 
-- 👨‍💻 All of my projects are available at <a href="[aaronclamp.netlify.app](https://aaronclamp.netlify.app/)">aaronclamp.netlify.app<a/>
+- 👨‍💻 All of my projects are available at <a href="https://aaronclamp.netlify.app/">aaronclamp.netlify.app<a/>
 
 - 💬 Ask me about **javascript, mechanics, or swimming**
 
