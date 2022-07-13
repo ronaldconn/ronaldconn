@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A full stack engineer based in Oakland, Ca</h3>
 
-- 🌱 I’m currently learning **Node and React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at <a href="https://aaronclamp.netlify.app/">aaronclamp.netlify.app<a/>
 
