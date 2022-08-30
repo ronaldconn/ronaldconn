@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A full stack engineer based in Oakland, Ca</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **RUST**
 
 - 👨‍💻 All of my projects are available at <a href="https://aaronclamp.netlify.app/">aaronclamp.netlify.app<a/>
 
-- 💬 Ask me about **javascript, mechanics, or swimming**
+- 💬 Ask me about **building apps, mechanics, or swimming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
