@@ -1,11 +1,28 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A full stack engineer based in Oakland, Ca</h3>
+<p align="center">
+  <a target="_blank" href="https://aaronclamp.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+  <a target="_blank" href="https://twitter.com/ronaldomoontree" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/aaronclamp/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a target="_blank" href="https://angel.co/u/aaron-clamp" target="_blank">
+      <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/>
+  </a>
+</p>
+<br>
 
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at <a href="https://aaronclamp.netlify.app/">aaronclamp.netlify.app<a/>
 
 - 💬 Ask me about **building apps, mechanics, or swimming**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
