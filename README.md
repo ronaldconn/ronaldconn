@@ -60,7 +60,7 @@
             <a href="https://projectmanageapp.onrender.com" target="_blank">
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964"></a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, Passport & MVC </strong> - - The Task It app is a organization tool for teams. IT allows user to assign, track, and log task items. It is sclable for small and large teams. </p>
+        <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, Passport & MVC </strong> -  The "Task It" app is a organization tool for teams. It allows user to assign, track, and log task items. It is sclable for small and large teams. </p>
     </td>
   </tr>
 
