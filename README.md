@@ -16,7 +16,7 @@
 </p>
 <br>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **React and Typescript**
 
 - 👨‍💻 All of my projects are available at <a href="https://aaronclamp.netlify.app/">aaronclamp.netlify.app<a/>
 
@@ -28,6 +28,23 @@
 <table bordercolor="2a52be">
 
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">OnlySubarus: The Used Subaru Finder</h3>
+        <br>
+        <a target="_blank" href="https://github.com/ronaldconn/onlysubs">
+            <img src="https://raw.githubusercontent.com/ronaldconn/onlysubs/main/onlysubs.gif">
+        </a>
+        <br>
+        <p align="center">
+          
+  <a href="https://github.com/ronaldconn/onlysubs" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+            </a>  
+            <a href="https://onlysubs.onrender.com/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+            </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js, Google Auth, Passport, Axios, Cheerio, MongoDB, Mongoose, Cloudinary & MVC</strong> - The app searches all junkyards within the immediate area (50 miles of user location) for 90's subarus. There app is not bulky and there are no ads. This allows the user to find the car they wish to pull parts from.</p>
     <td width="50%" valign="top">
       <h3 align="center">Ode to William Carlos Williams Poetry Generator</h3>
         <br>
@@ -45,7 +62,13 @@
             </a>
       </p>
         <p><strong>HTML5, CSS3, Javascript, Handlebars, Node.js, Materialze, Google Auth, Passport, & MVC</strong> - This poetry generator app is dedicated to william carlos williams. It renders a random generated peom and "vibey" image to give your day a creative start.</p>
-    <td width="50%" valign="top">
+  </tr>
+
+
+-----------------
+  
+  <tr>
+   <td width="50%" valign="top">
       <h3 align="center">Task It - A Project Management App for Any Team</h3>
         <br>
       <a target="_blank" href="https://github.com/ronaldconn/Task-It-the-PM-App">
@@ -62,29 +85,6 @@
       </p>
         <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, Passport & MVC </strong> -  The "Task It" app is a organization tool for teams. It allows user to assign, track, and log task items. It is sclable for small and large teams. </p>
     </td>
-  </tr>
-
-
------------------
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Magic 8 Ball</h3>
-        <br>
-        <a target="_blank" href="https://github.com/ronaldconn/magic-8ball">
-            <img src="https://github.com/ronaldconn/magic-8ball/blob/main/eightballapp.gif">
-        </a>
-        <br>
-        <p align="center">
-          
-   <a href="https://github.com/ronaldconn/magic-8ball" target="_blank">
-                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-            </a>  
-            <a href="https://magic-8ball-100devs.herokuapp.com/" target="_blank">
-                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-            </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - This Magic 8 Ball looks into your future to find answers to your questions. Ask your question and click the button, your future will be revealed!</p>
     <td width="50%" valign="top">
       <h3 align="center">Bob's Burger Character Encyclopedia</h3>
         <br>
