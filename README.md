@@ -46,7 +46,7 @@
       </p>
         <p><strong>HTML5, CSS3, Javascript, Node.js, Google Auth, Passport, Axios, Cheerio, MongoDB, Mongoose, Cloudinary & MVC</strong> - The app searches all junkyards within the immediate area (50 miles of user location) for 90's subarus. There app is not bulky and there are no ads. This allows the user to find the car they wish to pull parts from.</p>
     <td width="50%" valign="top">
-      <h3 align="center">Ode to William Carlos Williams Poetry Generator</h3>
+      <h3 align="center">William Carlos Williams Poetry Dynamo</h3>
         <br>
         <a target="_blank" href="https://github.com/ronaldconn/Ode-to-WCW-poetry-generator">
             <img src="https://github.com/ronaldconn/Ode-to-WCW-poetry-generator/blob/main/WCWPoetryGenerator.gif">
