@@ -69,7 +69,7 @@
   
   <tr>
    <td width="50%" valign="top">
-      <h3 align="center">Task It - A Project Management App for Any Team</h3>
+      <h3 align="center">Task It - A PM App for Any Team</h3>
         <br>
       <a target="_blank" href="https://github.com/ronaldconn/Task-It-the-PM-App">
             <img src="https://github.com/ronaldconn/Task-It-the-PM-App/blob/main/grouptodo.gif">
