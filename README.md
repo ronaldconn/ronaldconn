@@ -16,11 +16,11 @@
 </p>
 <br>
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at <a href="https://aaronclamp.netlify.app/">aaronclamp.netlify.app<a/>
 
-- 💬 Ask me about **building apps, mechanics, or swimming**
+- 💬 Ask me about **building apps, mechanics, swimming, or 8-bit videogame programming (gameboy, nes, etc.)**
 
 <br>
   
