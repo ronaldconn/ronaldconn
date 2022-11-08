@@ -18,7 +18,9 @@
 
 - 🌱 I’m currently learning **Rust** and **homebrew n64 development**.
 
-- 👨‍💻 All of my projects are available at <a href="https://aaronclamp.netlify.app/">aaronclamp.netlify.app<a/>
+- 💻 I do at least one codewars or leetcode a day to keep in shape and push to a private repo. Solutions are available upon request. On the occasion I miss a day, I will makeup the challenge the following day. Reach if you ever want to do live code challenges together! 😊
+
+- 👨‍💻 All of my projects are here and some of my favorites are available at <a href="https://aaronclamp.netlify.app/">aaronclamp.netlify.app<a/>
 
 - 💬 Ask me about **building apps, mechanics, swimming, or 8-bit videogame programming (gameboy, nes, etc.)**
 
