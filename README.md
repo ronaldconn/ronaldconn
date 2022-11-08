@@ -16,7 +16,7 @@
 </p>
 <br>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **homebrew n64 development**.
 
 - 👨‍💻 All of my projects are available at <a href="https://aaronclamp.netlify.app/">aaronclamp.netlify.app<a/>
 
